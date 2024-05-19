@@ -1,5 +1,5 @@
-# pyfetch
-An Custom Neofetch Built In Python
+# pyfetch && brianfuck
+An Custom Neofetch Built In Python && brianfuck
 If you wanna work with me add me on discord
 discord --- usagetpurplenc
 ---------------------------
